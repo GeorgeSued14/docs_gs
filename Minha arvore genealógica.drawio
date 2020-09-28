@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T18:28:33.043Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="U4RC6DtZpmkwUc2kzbRB" version="13.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T18:57:14.775Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="D3GZ2Qsucwj4bF-jpuTy" version="13.7.6" type="github" pages="2">
   <diagram id="X04kz2w6pJ2BwtQYNW_F" name="Familia Materna">
-    <mxGraphModel dx="1117" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="3605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#B3B3B3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-1" value="&lt;b&gt;Aracy Peçanha Gonçalves&lt;br&gt;&lt;/b&gt;&lt;br&gt;Profissão: Costureira&lt;br&gt;&lt;br&gt;25-07-1929 -&amp;nbsp; 08-08-2019" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="44.99999999999999" width="168.75" height="90" as="geometry" />
+          <mxGeometry x="1004" y="-441" width="233.66" height="124.62" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-2" value="Paulo Gonçalves&lt;br&gt;&lt;br&gt;Profissão: Gráfico&amp;nbsp;&lt;br&gt;&lt;br&gt;1932 - 2010" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="53.75" width="165.47" height="82.74" as="geometry" />
+          <mxGeometry x="585" y="-582.36" width="222.47" height="111.24" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-76" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-9">
           <mxGeometry relative="1" as="geometry">
@@ -78,126 +78,156 @@
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1295" y="361.77" width="20" height="149.26" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-118" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-84" target="GxdyiY9G9Qyw1W-CdfA0-117">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-84" value="&lt;b&gt;Maria Peçanha de Oliveira&lt;/b&gt;&lt;br&gt;&lt;br&gt;etnia: Preta&lt;b&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/b&gt;(Após Maria de Oliveira)&lt;br&gt;&lt;br&gt;Profissão:&amp;nbsp; Lavadeira&lt;br&gt;&lt;br&gt;~1895 - 1960" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="910" y="-260" width="240" height="120" as="geometry" />
+          <mxGeometry x="2287" y="-1013.81" width="290" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-104" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-88" target="GxdyiY9G9Qyw1W-CdfA0-105">
+        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-104" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-88">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1370.4700000000003" y="-250" as="targetPoint" />
+            <mxPoint x="2023.5467814906933" y="-1166.9961969518372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-88" value="&lt;b&gt;Benedito Peçanha&lt;/b&gt;&lt;br&gt;&lt;br&gt;etnia: Branco&lt;br&gt;&lt;br&gt;Profissão: Oficial da Marinha&lt;br&gt;&lt;br&gt;~xxxx - 1941 ( Morreu no hospital perto dos correios no centro)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1291.08" y="-218.75" width="208.13" height="121.25" as="geometry" />
+          <mxGeometry x="1862.75" y="-1016.63" width="267.78" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-14" style="rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.928;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-89" target="87gTp5nq9IZYHDgL9Xju-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-89" value="&lt;b&gt;Virgulina Gonçalves&lt;/b&gt;&lt;br&gt;&lt;br&gt;etnia: preta&lt;br&gt;&lt;br&gt;Profissão: Empregada Domestica&lt;br&gt;&lt;br&gt;xxxx - xxxx&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1955" y="-218.75" width="215" height="107.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-90" value="Getúlio Pinto da Costa&lt;br&gt;&lt;br&gt;1929 - 2019" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-210" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-92" value="Francisca André da Costa" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="246" y="-320" width="140" height="70" as="geometry" />
+          <mxGeometry x="572" y="-1005.5" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-96" value="Rodolfo Gonçalves&lt;br&gt;Data?" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2150" y="53.75" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-99" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-98" target="GxdyiY9G9Qyw1W-CdfA0-89">
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-16" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-101" target="GxdyiY9G9Qyw1W-CdfA0-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-98" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="-111.25" width="25" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-102" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-101" target="GxdyiY9G9Qyw1W-CdfA0-84">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-103" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-101" target="GxdyiY9G9Qyw1W-CdfA0-88">
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-17" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-101" target="GxdyiY9G9Qyw1W-CdfA0-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-101" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="-170" width="20" height="360" as="geometry" />
+          <mxGeometry x="2204.57" y="-1013.81" width="19.05" height="434.58" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-105" value="Advindo da Família Peçanha de&lt;br&gt;&amp;nbsp;Campos dos Goytacazes&lt;br&gt;&lt;br&gt;Referência mais provável: Nilo Peçanha" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390.7" y="-490" width="329.3" height="240" as="geometry" />
+          <mxGeometry x="1839" y="-1381" width="329.3" height="240" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-109" value="&lt;b&gt;Oswaldino Peçanha (Guedes)&lt;br&gt;&lt;/b&gt;Sem filhos&lt;br&gt;Profissão: Taifeiro da Marinha&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;xxxx - xxxx&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="830" y="348.15999999999997" width="180" height="90" as="geometry" />
+          <mxGeometry x="2384" y="-474" width="251" height="125.5" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-43" style="rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.086;entryY=0.276;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-110" target="87gTp5nq9IZYHDgL9Xju-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-110" value="&lt;b&gt;~ Eulina Peçanha&lt;br&gt;&lt;/b&gt;&lt;br&gt;Profissão: ?&lt;br&gt;&lt;br&gt;xxxx - xxxx&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-430" width="180" height="90" as="geometry" />
+          <mxGeometry x="1299" y="-461.75" width="231" height="115.5" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-111" value="&lt;b&gt;Jair Peçanha&lt;br&gt;&lt;/b&gt;&lt;br&gt;Profissão: Motorneiro&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;27-08-1927 - Atual" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1605.47" y="31.880000000000003" width="180" height="90" as="geometry" />
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.389;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-111" target="87gTp5nq9IZYHDgL9Xju-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-111" value="&lt;b&gt;Jacyr Peçanha&lt;br&gt;&lt;/b&gt;&lt;br&gt;Profissão: ?&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;xxxx - xxxx" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1818" y="-458.56" width="232.21" height="110.06" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.594;entryY=0.272;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-112" target="87gTp5nq9IZYHDgL9Xju-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-112" value="&lt;b&gt;Acyr Cosme Peçanha&lt;br&gt;&lt;/b&gt;&lt;br&gt;Dois Filhos&amp;nbsp;&lt;br&gt;&lt;br&gt;Profissão: Compositor (Império Serrano)&amp;nbsp; e Pedreiro.&amp;nbsp;&lt;br&gt;&lt;br&gt;~ 25-06-1925 - 2004&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="23.130000000000003" width="267.5" height="133.75" as="geometry" />
+          <mxGeometry x="2083.34" y="-468" width="261.5" height="121.75" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-125" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-113" target="GxdyiY9G9Qyw1W-CdfA0-124">
+        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-125" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-113" target="GxdyiY9G9Qyw1W-CdfA0-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.949;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-113" target="GxdyiY9G9Qyw1W-CdfA0-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-113" value="&lt;b&gt;Wilson de Oliveira&lt;br&gt;&lt;/b&gt;&lt;br&gt;Profissão: Marceneiro&lt;br&gt;&lt;br&gt;xxxx - xxxx" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-82.5" width="180" height="90" as="geometry" />
+          <mxGeometry x="2965.5" y="-480.00000000000006" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.931;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-116" target="GxdyiY9G9Qyw1W-CdfA0-117">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-116" value="&lt;b&gt;Ivo de Oliveira&lt;br&gt;&lt;/b&gt;&lt;br&gt;Profissão: Sargento da PM&lt;br&gt;&lt;br&gt;xxxx - xxxx" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-80" width="180" height="90" as="geometry" />
+          <mxGeometry x="3186.5" y="-480.00000000000006" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-117" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="687.5" y="-242.5" width="75" height="250" as="geometry" />
+          <mxGeometry x="3122.01" y="-663.74" width="90" height="219.97" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-119" target="87gTp5nq9IZYHDgL9Xju-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-119" value="&lt;b&gt;Adyr Peçanha&lt;br&gt;&lt;/b&gt;&lt;br&gt;Profissão: ?&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;xxxx - xxxx&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="230" width="180" height="90" as="geometry" />
+          <mxGeometry x="1570" y="-461" width="225.47" height="112.74" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-120" value="&lt;b&gt;Jacyr Peçanha&lt;br&gt;&lt;/b&gt;&lt;br&gt;Profissão: ?&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;xxxx - xxxx&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="952.5" y="230" width="180" height="90" as="geometry" />
+        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-120" value="&lt;b&gt;Jair Peçanha&lt;br&gt;&lt;/b&gt;&lt;br&gt;Profissão: Motorneiro&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;27-08-1927 - Atual" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2678.65" y="-471.12" width="238" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-121" target="GxdyiY9G9Qyw1W-CdfA0-110">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-121" value="Conjugê: ?&lt;br&gt;&lt;br&gt;Filhos&lt;br&gt;&lt;br&gt;Maria Ernestina&lt;br&gt;Maria Carlota&lt;br&gt;Edgar&lt;br&gt;Ana Maria" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="886.5" y="-446.5" width="246" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-122" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-110" target="GxdyiY9G9Qyw1W-CdfA0-121">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="-335" as="sourcePoint" />
-            <mxPoint x="870.7106781186548" y="-385" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1511" y="-257" width="246" height="123" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-124" value="Conjugê: Luiza Teixeira de Oliveira&lt;br&gt;&lt;br&gt;Filhos&lt;br&gt;&lt;br&gt;Maura&lt;br&gt;Maurício&lt;br&gt;Gilmar&lt;br&gt;Denise&lt;br&gt;Wilson Filho&lt;br&gt;Ilza" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="110" width="320" height="160" as="geometry" />
+          <mxGeometry x="2959" y="-356" width="193" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-126" value="Conjugê: Maria Roque Peçanha&lt;br&gt;&lt;br&gt;Filhos&lt;br&gt;&lt;br&gt;Suely&lt;br&gt;Solange&lt;br&gt;Serginho&lt;br&gt;Silvinha&lt;br&gt;Rosângela +" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="-210" width="305" height="152.5" as="geometry" />
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-27" style="rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-126" target="GxdyiY9G9Qyw1W-CdfA0-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-126" value="Conjugê: Maria Roque Peçanha&lt;br&gt;&lt;br&gt;Filhos&lt;br&gt;&lt;br&gt;Suely&lt;br&gt;Solange&lt;br&gt;Serginho&lt;br&gt;Silvinha&lt;br&gt;Rosângela ++" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2695.82" y="-300" width="203.65" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-128" value="Conjuge: Neide de Oliveira&lt;br&gt;&lt;br&gt;Filhos&lt;br&gt;&lt;br&gt;Waldeir&lt;br&gt;Wagner&lt;br&gt;Waldecir&lt;br&gt;Valéria" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="23.13" width="305" height="152.5" as="geometry" />
+          <mxGeometry x="3176.75" y="-353.75000000000006" width="199.5" height="157.75" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-129" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-116" target="GxdyiY9G9Qyw1W-CdfA0-128">
+        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-129" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endFill=0;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-116" target="GxdyiY9G9Qyw1W-CdfA0-128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="40" as="sourcePoint" />
-            <mxPoint x="640" y="-10" as="targetPoint" />
+            <mxPoint x="3091.5" y="-230" as="sourcePoint" />
+            <mxPoint x="3141.5" y="-280.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GxdyiY9G9Qyw1W-CdfA0-130" value="Conjugê: Celina&lt;br&gt;&lt;br&gt;Filhos&lt;br&gt;&lt;br&gt;Diucélia&lt;br&gt;Célia&lt;br&gt;Célio&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="2230" y="167.5" width="305" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-131" value="&lt;b&gt;(Patrão)&lt;br&gt;&lt;/b&gt;&lt;br&gt;etnia: Branco (Português)&lt;br&gt;&lt;br&gt;Profissão: ?&lt;br&gt;&lt;br&gt;xxxx - xxxx&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2250" y="-218.75" width="215" height="107.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-133" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GxdyiY9G9Qyw1W-CdfA0-131" target="GxdyiY9G9Qyw1W-CdfA0-98">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2200" y="40" as="sourcePoint" />
-            <mxPoint x="2250" y="-10" as="targetPoint" />
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-15" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" target="87gTp5nq9IZYHDgL9Xju-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1086" y="-858.12" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GxdyiY9G9Qyw1W-CdfA0-131" value="&lt;b&gt;(Patrão)&lt;br&gt;&lt;/b&gt;&lt;br&gt;etnia: Branco (Português)&lt;br&gt;&lt;br&gt;Profissão: ?&lt;br&gt;&lt;br&gt;xxxx - xxxx&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="931" y="-1007" width="289" height="144.5" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="863" y="-933.12" width="80" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-22" style="edgeStyle=none;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="87gTp5nq9IZYHDgL9Xju-21" target="GxdyiY9G9Qyw1W-CdfA0-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-24" style="rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="87gTp5nq9IZYHDgL9Xju-21" target="GxdyiY9G9Qyw1W-CdfA0-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2740" y="-534" />
+              <mxPoint x="2740" y="-491" />
+              <mxPoint x="2798" y="-491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="87gTp5nq9IZYHDgL9Xju-21" target="GxdyiY9G9Qyw1W-CdfA0-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87gTp5nq9IZYHDgL9Xju-21" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1274" y="-545" width="1641" height="20.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="sA0s7KzQx460w5JGkKBO" name="Familia Paterna">
-    <mxGraphModel dx="782" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Mev56ew3hSFlO5mb7391-0" />
         <mxCell id="Mev56ew3hSFlO5mb7391-1" parent="Mev56ew3hSFlO5mb7391-0" />
+        <mxCell id="F7hhXdF862kpJOrahPso-0" value="Getúlio Pinto da Costa&lt;br&gt;&lt;br&gt;xxxx - xxxx" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="Mev56ew3hSFlO5mb7391-1">
+          <mxGeometry x="796.71" y="-230" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="F7hhXdF862kpJOrahPso-1" value="Francisca André da Costa&lt;br&gt;&lt;br&gt;Profissão:&amp;nbsp;&lt;br&gt;&lt;br&gt;xxxx - xxxx" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;sketch=0;fillStyle=dots;fillColor=none;" vertex="1" parent="Mev56ew3hSFlO5mb7391-1">
+          <mxGeometry x="560" y="-227.5" width="200" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
